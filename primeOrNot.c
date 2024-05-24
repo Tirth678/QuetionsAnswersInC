@@ -1,3 +1,4 @@
+// To find out if the value entered by the user is a prime or not.
 #include<stdio.h>
 int main(void)
 {
