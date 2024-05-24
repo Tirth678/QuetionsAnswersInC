@@ -1,0 +1,1 @@
+fscanf(ptr, "%d",&num);
