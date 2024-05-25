@@ -2,7 +2,7 @@
 int main(void)
 {
     FILE *ptr;
-    int num=32;
+    int num=2;
     ptr = fopen( "double.txt", "w");
     fscanf(ptr, "%d",&num);
     num *=2;
